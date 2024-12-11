@@ -1,2 +1,2 @@
 # TelaFintech
-## Projeto realizado utilizando linguagens HTML e CSS além do bootstrap 
+## Projeto realizado utilizando linguagens HTML, CSS e Bootstrap 
